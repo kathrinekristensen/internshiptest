@@ -23,6 +23,6 @@
         </p>
         <p>
           <input type="hidden" name="insert" value="yes"/>
-          <input type="submit" value="Enter Note"/>
+          <input type="submit" value="submit Note" id="submit"/>
         </p>
       </form>

@@ -1,5 +1,5 @@
 <?php
-    $sql = "select author, body, subject, clock";
+    $sql = "select author, body, subject, dateofwrite";
 	$sql .= " from note";	
 		if (!($arr = $dbh->query($sql))) {
 			  die ($dbh->error);
