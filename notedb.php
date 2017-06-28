@@ -13,7 +13,7 @@
            (isset($_POST['subject']) && $_POST['subject'] != '')
         && (isset($_POST['body']) && $_POST['body'] != '')
         )) {
-        header("Location: ./post.php");
+        header("Location: ./note.php");
       } 
       $t = new DateTime();
       $today = $t->format('Y-m-d H:i:s');
