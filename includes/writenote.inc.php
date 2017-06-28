@@ -18,11 +18,11 @@
           <textarea cols="60" 
                     rows="12" 
                     name="body" 
-                    id="body"
+                    id="bodyt"
                     required></textarea>
         </p>
         <p>
           <input type="hidden" name="insert" value="yes"/>
-          <input type="submit" value="submit Note" id="submit"/>
+          <input type="submit" id="submitb" value="Submit Note" />
         </p>
       </form>

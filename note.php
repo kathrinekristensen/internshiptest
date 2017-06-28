@@ -22,7 +22,6 @@
         <link rel="stylesheet" href="css/style.css"/>
         <link href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto|Poiret+One" rel="stylesheet">
   </head>
-
   <body>
     <header>
       <h1>Make notes</h1>
