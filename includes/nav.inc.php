@@ -4,7 +4,7 @@
                   <a href="index.php">Notes</a>
               </li>
               <li>
-                <a href="post.php">Write note</a>
+                <a href="note.php">Write note</a>
               </li>
                       <?php
                             if (!isAuthenticated()) { //logged in, in menu?
@@ -20,7 +20,7 @@
                     <a href ="index.php"><img src="img/text.svg" alt="icon text"></a>
                 </li>
                  <li>
-                    <a href ="post.php"><img src="img/write.svg" alt ="icon wirte"></a>
+                    <a href ="note.php"><img src="img/write.svg" alt ="icon wirte"></a>
                 </li>
                  
                <?php
